@@ -1,0 +1,19 @@
+.toggle-menu {
+  min-height: 100vh;
+  margin-left: -232px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.toggle-menu .toggle-menu-title {
+  font-size: 1.2rem;
+  width: 232px;
+}
+
+.active-toggle-menu {
+  display: block;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  margin-left: 0;
+}
+/*# sourceMappingURL=style.css.map */
